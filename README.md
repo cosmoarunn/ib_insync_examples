@@ -12,16 +12,14 @@ ib_insync_examples
 
 ## Usage
 
-    #simple usage 
-    ```
+### simple usage 
     python3 symbol_collect.py -h
-    ```
-    #using parameters: 
-    #see more with 
-    ```
+    
+### using parameters: 
+    
+### see more with 
     python3 symbol_collect.py -h
-    ```
-    #with all parameters
-    ```
+    
+### with all parameters
     python3 symbol_collect.py -a "a,b,c,1" -c 2 -d symboltest -t symbol_scds_2
-    ```
+
